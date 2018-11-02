@@ -3,11 +3,6 @@ A personal portfolio is an evidentiary document designed to provide qualitative 
 
 # Screenshot
 
-
-
-
-
-
 # Developer
 -Saksham Sharma<br>
 <a href="https://github.com/Sakshamoo17">Github</a>
