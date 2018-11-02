@@ -4,8 +4,7 @@ A personal portfolio is an evidentiary document designed to provide qualitative 
 # Screenshot
 <img scr="A1.png">
 <img scr="A2.png">
-<img scr="A3.png">
-<img scr="A4.png">
+
 
 
 
