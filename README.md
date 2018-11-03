@@ -2,7 +2,6 @@
 A personal portfolio is an evidentiary document designed to provide qualitative and quantitative information. It is different from a resume in that its intent is not to summarize, but to expand upon and provide evidence relating to accomplishments, skills and experiences, in the classroom, workplace, and community in which you live.
 
 # Screenshot
-<img scr="A1.png"><br>
 
 # Developer
 -Saksham Sharma<br>
